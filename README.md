@@ -2,7 +2,7 @@
 Tracking my journey through Stanford's CS229 + real world ML projects  
 ## 🚀 CS229 + ML Learning Journey by Akash
 
-Hi! I'm Akash, a BS Data Science.  
+Hi! I'm Akash, a BS Data Science student.  
 I'm building a strong portfolio in AI/ML to crack NASA Space Apps 2026, top MNC jobs, and fully funded MS/PhD abroad.
 
 ---
